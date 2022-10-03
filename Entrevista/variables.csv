@@ -1,0 +1,44 @@
+﻿Pregunta;Variable
+¿Cuál es su edad?;edad
+Indique su género;genero
+¿Se encuentra trabajando actualmente?;trabajo
+¿Su procedencia es fuera de Tegucigalpa? (Foráneo);foráneo
+¿Tiene más familiares estudiando dentro de la UNAH u otras universidades?;familiares_unah
+¿Tiene familiares que estudian la carrera de Ingeniería en Sistemas?;familiares_is
+¿Tiene familiares que se han graduaron de alguna universidad?;familiares_graduados
+¿Se sintió presionado o influenciado a estudiar la carrera de ingeniería en sistemas?;influencia
+¿Le hubiese gustado estudiar otra carrera?;is_segunda_opcion
+¿Estudia una carrera simultánea?;carrera_simultanea
+¿Disfruta de los conocimientos que aprende en la universidad, puede decir que realmente le gusta su carrera?;gusto_por_la_carrera
+¿Es o ha sido un estudiante con excelencia académica?;excelencia_academica
+¿Se considera una persona con un alto deseo por desarrollarse académicamente, en el grado de una Maestría o Doctorado?;superacion
+"¿Considera en que el esfuerzo que esta realizando en la Universidad ""vale la pena""?";satisfaccion
+¿En qué año ingreso a la UNAH?;anio_ingreso_unah
+¿Cuántas clases ha reprobado?;clases_reprobadas
+¿Cuántas clases de la carrera de ingeniería en sistemas ha matriculado en el periodo actual?;clases_is_periodo
+¿Cuántas clases de la facultad de matemáticas suele o solía matricular por periodo?;clases_mate_periodo
+¿Qué porcentaje de clases de la carrera de ingeniería en sistemas ha aprobado? (Puntuar del 1 al 100);porcentaje_is_clases
+¿Planificas tus actividades corto plazo? ;planificación_corto_plazo
+¿Planificas tus actividades a mediano o largo plazo?;planificación_largo_plazo
+En caso de planificar tus actividades podrías indicar ¿Cuáles de las siguientes herramientas utiliza o ha utilizado para planificar sus actividades?;herramientas_planificacion
+¿Considera que los profesores, y la Universidad se preocupan por mi bienestar personal y académico?;importante_mi_entorno
+¿Se ha enfrentado a una o más de las siguientes dificultades económicas? (Del 1 al 5, siendo 1 poco afectado y 5 muy afectado);dificultades_economicas_in
+¿Se ha enfrentado a una o más de las siguientes dificultades económicas? (Del 1 al 5, siendo 1 poco afectado y 5 muy afectado);dificultades_economicas_tra
+¿Se ha enfrentado a una o más de las siguientes dificultades económicas? (Del 1 al 5, siendo 1 poco afectado y 5 muy afectado);dificultades_economicas_matr
+¿Se ha enfrentado a una o más de las siguientes dificultades económicas? (Del 1 al 5, siendo 1 poco afectado y 5 muy afectado);dificultades_economicas_pc
+¿Se ha enfrentado a una o más de las siguientes dificultades económicas? (Del 1 al 5, siendo 1 poco afectado y 5 muy afectado);dificultades_economicas_del
+En la siguiente tabla, en caso de haber tenido experiencias poco agradables,  puede indicar cuales  las siguientes situaciones que ha experimentado:;malas_experiencias
+¿Ha considerado abandonar la carrera en algún punto de su vida académica?;desercion
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_mat
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_fis
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_el
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_ad
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_analis
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_ark
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_bd
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_prog
+A continuación, se muestran las ramas en la cuáles se divide la carrera de ingeniería en sistemas en la UNAH. En una escala del 1 al 5 puntué el interés que le generó cada una de ellas, donde un 1 se refiera a un bajo interés y un 5 a un alto interés.;interés_rama_carrera_red
+¿Te consideras una persona introvertida? *Se dice de alguien que es introvertido cuando sus rasgos generales de personalidad tienden hacia el disfrute de la soledad, de la reflexión y la introspección, y menos hacia el afuera o hacia los contextos de intensa socialización.*;introvertido
+¿Considera que le es fácil expresar tus ideas, opiniones y sentimientos hacia las demás personas?;comunicación
+¿Considera tener una capacidad alta de liderazgo para influir de buena manera en sus compañeros?;competitividad
+¿Piensas que eres una persona competitiva?;liderazgo
